@@ -21,7 +21,7 @@
 1. **Clonar este repositorio:**
 
     ```bash
-    git clone https://github.com/tu-repositorio.git
+    git clone https://github.com/cocomeza/Trailerflix_API_streaming.git
     ```
 
 2. **Instalar dependencias:**
